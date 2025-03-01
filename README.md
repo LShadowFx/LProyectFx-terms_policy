@@ -10,7 +10,7 @@ Bot Multifuncional | Términos y Políticas oficiales de LProyectFx
 
 3. **LProyectFx** no divulgará información personal de los usuarios a terceros sin consentimiento y no participará en actividades que violen los términos de servicio del servidor.
 
-4. Si necesitas asistencia o deseas ponerte en contacto con el equipo de desarrollo de **LProyectFx**, puedes hacerlo a través de su desarrollador **x_shxdow** o uniéndote a nuestro [Servidor de Discord](https://discord.gg/8dwVxfBRbQ), donde te ayudaremos con gusto.
+4. Si necesitas asistencia o deseas ponerte en contacto con el equipo de desarrollo de **LProyectFx**, puedes hacerlo a través de su desarrollador [x_shxdow](https://discord.com/users/751622702850244628) o uniéndote a nuestro [Servidor de Discord](https://discord.gg/8dwVxfBRbQ), donde te ayudaremos con gusto.
 
 Al utilizar al bot **LProyectFx**, los usuarios aceptan que el bot recopile y utilice datos proporcionados para mejorar la experiencia en el servidor.
 
